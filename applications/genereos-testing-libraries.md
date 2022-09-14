@@ -98,21 +98,21 @@ GenerEOS are top 21 genesis block producers on the EOS mainnet and have been bui
 
 ### Team Org Repos
 
-- https://github.com/generEOS>
+- https://github.com/generEOS
 
 
 ### Team Member Repos
 
-- https://github.com/timmwest>
-- https://github.com/rdewilder>
-- https://github.com/RalfWeinand>
-- https://github.com/quocle108>
+- https://github.com/timmwest
+- https://github.com/rdewilder
+- https://github.com/RalfWeinand
+- https://github.com/quocle108
 
 
 ### Team LinkedIn Profiles (if available)
 
-- https://www.linkedin.com/in/ralfweinand/>
-- https://www.linkedin.com/in/robert-dewilder-6b83311/>
+- https://www.linkedin.com/in/ralfweinand
+- https://www.linkedin.com/in/robert-dewilder-6b83311
 
 
 ## Development Status
